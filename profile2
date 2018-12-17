@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		万
+	</title>
+<style>
+h2{	text-decoration: underline;
+	font-family: '궁서';
+	line-height: 150%}
+p {font-family: 'aria';
+		line-height: 150%
+		font-size: 8px;}
+table, tr, th, td{border: solid 1px white;
+border-collapse: collapse;
+padding: 8px;}
+body{ color: white; }
+span{color: #691A99;}
+li{list-style-type: none;}
+#v_menu{
+	width: 150px;
+}
+#v_menu li{
+	padding: 5px;
+	border-bottom: dotted 1px black;
+}
+#h_menu li{
+	display: inline;
+}
+.menus {
+	margin: 0 20px 0 20px;
+	color: green;
+}
+*{
+	padding: 0;
+	margin: 0;
+		}
+li{
+	list-style-type: none;
+	color: white;
+}
+.clear{
+	clear: both;
+}
+#main_img{
+	width: 100%;
+	height: 281px;
+	margin-top: 20px;
+	background-image: url('hiho666.github.io/미친디자인.png');
+	background-repeat: no-repeat;
+	background-position: top center;
+	}
+header {
+	width: 1140px;
+	height: 100px;
+	margin: 0 auto;
+}
+#logo {
+	float: left;
+	margin: 20px 0px 20px 20px;
+}
+#menus {
+	float: right;}
+#top_menu {
+	text-align: right;
+	margin-top: 30px;
+	}
+	#main_menu{
+		margin-top: 20px;
+		font-family: '맑은고딕';
+		font-size: 20px;
+		color: black;
+	}
+	#main_menu li {
+		display: inline;
+		margin-left: 80px;
+	}
+	li{
+		list-style-type: none;
+	}
+#contents {
+	width: 1140px;
+	margin: 0 auto;
+}
+#sub_menu {
+	width: 234px;
+	float: left;
+	margin-top: 25px;
+}
+#sub_menu h3 {
+	font-size: 18px;
+	color: #5df0c0;
+	padding: 12px;
+	background-color: #691A99;
+}
+#sub_menu li {
+	padding: 10px;
+	border-bottom: dotted 1px #cccccc;
+}
+#main_contents {
+	width: 880px;
+	float: right;
+	margin-top: 25px;
+}
+#main_contents h3 {
+	font-size: 22px;
+	padding-bottom: 8px;
+	border-bottom: solid 1px #cccccc;
+}
+#main_contents p {
+	margin-top: 30px;
+	line-height: 180%;
+}
+#main_contents #figure {
+	margin-top: 30px;
+	text-align: center;
+}
+#margin_contents li {
+	padding: 5px;
+}
+footer{
+	width: 100%;
+	height: 150px;
+	margin-top: 30px;
+	background-color: #2c2a29;
+}
+#footer_box{
+	width: 1140px;
+	height: 150px;
+	margin: 0 auto;
+}
+#footer_logo{
+	float: left;
+	margin: 25px 0 0 30px;
+}
+#address {
+	float: right;
+	margin: 50px 30px 0 0;
+	color: white;
+}
+#page{
+	width: 1140px;
+	margin: auto;
+}
+#a { font-family: "궁서";
+font-size: 20pt;
+margin: 30px 0 20px 0
+}
+</style>
+</head>
+<body>
+	<div id="page">
+<body bgcolor="black">	
+<div id='logo'>
+	<a href="https://hiho666.github.io"><img src='hiho666.github.io/logo.png'></a>
+</div>
+	<nav id='menus'>
+		<div id='top_menu'>
+			<a href='https://hiho666.github.io/login'> 로그인</a> | <a href='https://hiho666.github.io/signup'>회원가입</a> | <a href='https://hiho666.github.io/mypage'>마이페이지</a>
+		</div>
+		<ul id='main_menu'>
+			<li><a href="https://hiho666.github.io/profile">프로필</a></li>
+			<li><a href="https://namu.wiki/w/%EB%A7%8C%EC%A3%A0%EB%A9%94%20%EC%A5%B0/%EB%8D%B1" target="_blank">사용 덱</a></li>
+			<li><a href="https://hiho666.github.io/cheer">응원메세지 작성</a></li>
+		</ul>
+	</nav>
+</header>
+<div class="clear"></div>
+<section id="main_img">
+</section>
+<div class="clear"></div>
+<section id='contents'>
+	<nav id='sub_menu'>
+		<h3>활약</h3>
+		<ul>
+			<a href="https://hiho666.github.io/profile"><li>프로필</li></a>
+			<a href="https://namu.wiki/w/%EB%A7%8C%EC%A3%A0%EB%A9%94%20%EC%A5%B0/%EB%8D%B1" target="_blank"><li>사용 덱</li></a>
+			<a href="https://hiho666.github.io/profile3"><li>인물 관계도</li></a>
+		</ul>
+	</nav>
+	<div id='main_contents'>
+		<h3>1기</h3>
+    <br>
+    첫 출연은 1화로 쥬다이가 크로노스의 듀얼을 관전했다.
+
+이후 쥬다이가 크로노스를 이기는 것을 보고 카드빨이라 생각해 한밤중에 페이버릿 카드를 걸고 듀얼을 하나 경비원이 경비를 도는 바람에 중단된다. 이때 경비원이 오기 직전까지는 만죠메 본인이 우세를 점했으나 쥬다이가 마지막에 뽑은 카드는 죽은 자의 소생. 본인은 3기 에필로그에서 본인이 이긴 듀얼이라 자랑하지만 아스카가 당시 쥬다이가 뽑은 카드를 알려주는 탓에 사실상 본인이 졌다는 사실에 절망.
+
+이후 크로노스 교수의 계락으로 상점에 입고된 카드를 전부 크로노스 교수가 사들인 뒤 크로노스에게서 VtoZ를 비롯한 강력한 카드들을 받고 쥬다이와 듀얼을 하게 된다. VWXYZ까지 소환해 가면서 쥬다이를 압박했지만 날개 크리보 LV10의 활약+쥬다이의 데스티니 드로우로 패배한다.
+
+이 듀얼 이후 만죠메를 떠받들던 학생들이 하나둘씩 등을 돌리고 크로노스 교수마저 만죠메를 무시하는 등 완전히 쩌리취급을 받는다.
+
+이후 미사와 다이치의 승급 듀얼상대가 되지만 지는 것을 인정할 수 없었던 만죠메는 미사와의 덱을 버리나(실제론 버리지 않았다.) 그건 미사와의 서브 덱, 진짜 덱은 따로 있었다. '패자는 퇴학'이라는 조건을 스스로 내걸고 단두대 매치에 임하지만 본의 아니게 본인의 덱 테마를 말해버려 미사와에게 패배한다. 결국 계속되는 패배에 듀얼 아카데미아를 스스로 나가게 된다.
+
+그리고 방황하다가 바다 위에서 표류를 하게 되고 우연히 듀얼 아카데미 노스 교로 가게 되어 우연치 않게 쥬다이의 날개 크리보처럼 듀얼의 정령인 방해꾼 옐로를 만나고 노스 교를 제패한 뒤 노스 교의 대표가 되어 노스 교에 전해내려오는 카드인 암드 드래곤 시리즈를 받아서 덱을 파워업한 뒤에, 노스 교의 대표로 듀얼 아카데미아 쥬다이와 승부하게 된다. 여기서 형들이 만죠메에게 카오스 엠페러 드래곤을 비롯한 레어 카드를 주었지만 전혀 쓰지 않았다. 
+
+이번에는 심기일전해서 쥬다이를 몰아붙이지만 결국은 날개 크리보의 활약으로 패배한다. 이때 당시 듀얼 상황이 큰 형과 작은 형에 의해 전국에 생방송 되었지만 만죠메가 패배할 국면에 접어들자 갑자기 방송 중단을 한다.
+
+만죠메 집안의 원래 계획은 장남이 정치계에서, 차남이 재계에서, 막내인 만죠메 쥰이 게임계의 각각의 제왕이 되어 세계를 제패한다는 계획으로 오벨리스크 블루에 들어왔으나 하필이면 만죠메가 주인공을 만나는 바람에 굴욕을 거듭하여 마땅찮은 성적을 냈던 것. 그런데 이 형들이라는 사람들이 듀얼에서 진 만죠메의 멱살을 잡고 욕지꺼리를 한다. 자존심 강한 만죠메 성격상 누군가 멱살을 잡고 욕을 한다면 참아넘길 순 없었을텐데, 형들과 터울이 큰 것도 그렇고 어지간히 차이고 살았던 모양. 오죽하면 옆에 있던 쥬다이가 그만두라며 만죠메를 두둔한다.
+
+이후 다시 듀얼 아카데미 본교로 복귀하나 빼먹은 출석 일수 때문에 출결관리가 필요한타 기숙사에는 못 들어가고 출결과 성적 안 따지는 오시리스 레드로 강등당하게 된다. 본인은 영 마땅치 않아 했지만 오시리스 레드들은 만죠메를 좋아하며 반긴다. 본격 엘리트의 추락. 그래도 누가 부잣집 도련님 아니랄까봐 구리다고 소문난 오시리스 레드 기숙사를 자신의 재력으로 리모델링하고 TV와 침대 등 가구를 쑤셔넣는다. 다만 그것도 부족해서 좁다고 땡깡부린다.
+
+그리고 여기서부터 만죠메의 진가가 드러난다.
+
+듀얼 아카데미아를 먹으려는 형들과 듀얼에서 공격력 500이하의 몬스터로 싸우라는 불합리한 조건을 받아들인다. 다만 만죠메는 비트 다운형 덱이었기 때문에 공격력 500이하의 몬스터라고는 방해꾼 옐로 밖에 없었다. 그리하여 잉여스러운 카드들이 버려진 카드의 우물에서 카드를 주워와 카드는 주웠다. 급조한 덱으로 듀얼을 하게 된다. 형인 쇼지 카드의 레어도가 전부 페러렐 레어여서 솔리드 비전이 홀로그램마냥 반짝거리는데 이게 또 볼만하다.
+
+듀얼 내내 밀리는 듯 해보였지만 겨우겨우 버티다가 방해꾼 3형제를 필드 위에 놓고 방해꾼 델타 허리케인을 발동시켜 몬스터를 전멸시칸 다음 카오스 네크로맨서의 효과로 공격력을 3300까지 끌어올린 뒤 레어 카드로 무장한 형을 이긴다! 유희왕 시리즈 중에서 그 누구도 해내지 못한 공격력 0 위주의 잡덱으로 이긴 전무후무한 기록을 세운 캐릭터. 이 때 둘째 형은 큰형을 부축하며 이 원한을 갚겠다고 하지만, 큰형은 아카데미 학생들에게서 당당하게 환호를 받고 있는 만죠메의 모습을 보라며 쥰 녀석이 자신들의 생각 이상의 거물이 되었다고 칭찬했다.
+
+이 듀얼에서 이긴 뒤 주워온 카드들은 버리지 않고 그대로 간직하고 있다. 정령들이 시끄럽고 귀찮게 굴어도 "너흰 구제불능이다!"라며 욕만 하지 그대로 간직한다. 대인배 썬더…
+
+이후 칠정문의 열쇠를 지키는 1명으로 발탁되며, 돈 잘우그가 칠정문의 열쇠를 훔치러 듀얼 아카데미아로 왔을 때 명탐정 썬더가 되어 전갈 도적단을 색출해내고[36][37] 듀얼에서 이기는 등 비로소 라이벌다운 실력이 나온다. 이번에는 돈 잘우그와 전갈단 멤버들이 만죠메 방에 세들어 사는 건 덤. 정령들이 점점 늘어나고 있다!
+
+사족으로 이때 돈 잘우그, 쥬다이 둘의 대화가 압박적이다. 평소에 쥬다이가 만죠메를 어떻게 생각하는지 알 수 있는 부분.
+
+돈 잘우그 : 그 말대로. 평범한 사람은 우리의 콤보를 당하면 한 방에 패도 덱도 엉망진창이 된다.
+쥬다이 : 하지만 만죠메는 평범하지 않다고! 네가 할 말이냐
+만죠메 : 쥬다이! 네 놈이 말하지마! 다르게 들린다고!
+
+
+축제 코스프레 듀얼에선 XYZ-드래곤 캐논으로 분장인데 드래곤 캐논 위치가...., 블매걸과 쥬다이의 듀얼을 해설한다. 
+
+아므니엘전에선 패배, 쥬다이가 이길때 까지 어느 공간에 갇혀있었다. 이후 세븐 스타즈가 전부 쓰러지자, 후부키랑 작전을 짜서 칠정문 열쇠를 몰래 훔쳐서 그걸 걸고 아스카와 고백듀얼을 했다가 허무하게 차이고 패한다.[38] 그러나 그 직후 카게마루가 열쇠를 사용해 삼환마를 부활시켜 버린다. 
+
+		</ul>
+	</div>
+</section>
+<div class='clear'></div> <!-- float 속성 해제 -->
+</div>
+<footer>
+	<div id="footer_box">
+		<div id="footer_logo">
+			<img src='hiho666.github.io/logo.png'>
+		</div>
+		<ul id="address">
+			<li>아직 대관처가 정해지지 않았습니다!</li>
+			<li>만죠메 쥰 팬레터 발송 대행인 / Email : willadhogu@gmail.com</li>
+			<li>COPYRIGHT (C) KONAMI ALL RIGHTS RESERVED</li>
+		</ul>
+	</div>
+</footer>
+</div>
+</body>
+</html>
