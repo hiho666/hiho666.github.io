@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		万
+	</title>
+<style>
+h2{	text-decoration: underline;
+	font-family: '궁서';
+	line-height: 150%}
+p {font-family: 'aria';
+		line-height: 150%
+		font-size: 8px;}
+table, tr, th, td{border: solid 1px white;
+border-collapse: collapse;
+padding: 8px;}
+body{ color: white; }
+span{color: #691A99;}
+li{list-style-type: none;}
+#v_menu{
+	width: 150px;
+}
+#v_menu li{
+	padding: 5px;
+	border-bottom: dotted 1px black;
+}
+#h_menu li{
+	display: inline;
+}
+.menus {
+	margin: 0 20px 0 20px;
+	color: green;
+}
+*{
+	padding: 0;
+	margin: 0;
+		}
+li{
+	list-style-type: none;
+	color: white;
+}
+.clear{
+	clear: both;
+}
+#main_img{
+	width: 100%;
+	height: 281px;
+	margin-top: 20px;
+	background-image: url('hiho666.github.io/미친디자인.png');
+	background-repeat: no-repeat;
+	background-position: top center;
+	}
+header {
+	width: 1140px;
+	height: 100px;
+	margin: 0 auto;
+}
+#logo {
+	float: left;
+	margin: 20px 0px 20px 20px;
+}
+#menus {
+	float: right;}
+#top_menu {
+	text-align: right;
+	margin-top: 30px;
+	}
+	#main_menu{
+		margin-top: 20px;
+		font-family: '맑은고딕';
+		font-size: 20px;
+		color: black;
+	}
+	#main_menu li {
+		display: inline;
+		margin-left: 80px;
+	}
+	li{
+		list-style-type: none;
+	}
+#contents {
+	width: 1140px;
+	margin: 0 auto;
+}
+#sub_menu {
+	width: 234px;
+	float: left;
+	margin-top: 25px;
+}
+#sub_menu h3 {
+	font-size: 18px;
+	color: #5df0c0;
+	padding: 12px;
+	background-color: #691A99;
+}
+#sub_menu li {
+	padding: 10px;
+	border-bottom: dotted 1px #cccccc;
+}
+#main_contents {
+	width: 880px;
+	float: right;
+	margin-top: 25px;
+}
+#main_contents h3 {
+	font-size: 22px;
+	padding-bottom: 8px;
+	border-bottom: solid 1px #cccccc;
+}
+#main_contents p {
+	margin-top: 30px;
+	line-height: 180%;
+}
+#main_contents #figure {
+	margin-top: 30px;
+	text-align: center;
+}
+#margin_contents li {
+	padding: 5px;
+}
+footer{
+	width: 100%;
+	height: 150px;
+	margin-top: 30px;
+	background-color: #2c2a29;
+}
+#footer_box{
+	width: 1140px;
+	height: 150px;
+	margin: 0 auto;
+}
+#footer_logo{
+	float: left;
+	margin: 25px 0 0 30px;
+}
+#address {
+	float: right;
+	margin: 50px 30px 0 0;
+	color: white;
+}
+#page{
+	width: 1140px;
+	margin: auto;
+}
+#a { font-family: "궁서";
+font-size: 20pt;
+margin: 30px 0 20px 0
+}
+</style>
+</head>
+<body>
+	<div id="page">
+<body bgcolor="black">	
+<div id='logo'>
+	<a href="https://hiho666.github.io"><img src='hiho666.github.io/logo.png'></a>
+</div>
+	<nav id='menus'>
+		<div id='top_menu'>
+			<a href='https://hiho666.github.io/login'> 로그인</a> | <a href='https://hiho666.github.io/signup'>회원가입</a> | <a href='https://hiho666.github.io/mypage'>마이페이지</a>
+		</div>
+		<ul id='main_menu'>
+			<li><a href="https://hiho666.github.io/profile">프로필</a></li>
+			<li><a href="https://namu.wiki/w/%EB%A7%8C%EC%A3%A0%EB%A9%94%20%EC%A5%B0/%EB%8D%B1" target="_blank">사용 덱</a></li>
+			<li><a href="https://hiho666.github.io/cheer">응원메세지 작성</a></li>
+		</ul>
+	</nav>
+</header>
+<div class="clear"></div>
+<section id="main_img">
+</section>
+<div class="clear"></div>
+<section id='contents'>
+	<nav id='sub_menu'>
+		<h3>프로필</h3>
+		<ul>
+			<a href="https://hiho666.github.io/profile"><li>프로필</li></a>
+			<a href="https://namu.wiki/w/%EB%A7%8C%EC%A3%A0%EB%A9%94%20%EC%A5%B0/%EB%8D%B1" target="_blank"><li>사용 덱</li></a>
+			<a href="https://hiho666.github.io/profile2"><li>활약</li></a>
+		</ul>
+	</nav>
+	<div id='main_contents'>
+		<h3>万丈目 準</h3>
+    <br>
+카이바와 비슷한 기믹으로 등장했건만, 결국 전작의 카이바 세토만큼의 저력은 보여주지 못 했다.
+
+카이바가 유우기의 유일한 라이벌이었던 것에 비해, 듀얼 아카데미아 최강이라는 카이저 료(마루후지 료)와 사이버 드래곤이라는 강력한 이미지 카드를 가진 카이저에 비해 마땅히 내세울 만한 이미지 카드도 없다. 암드 드래곤이 있긴 하지만, 만죠메의 영혼의 파트너는 개그캐인 방해꾼. 카이바는 푸른 눈의 백룡이라는 유희왕 잘 모르는 사람도 알 정도의 강렬한 프라이드 카드가 있었던 것에 비하면 안습. 
+
+단, 그렇다고 해서 만죠메가 애니에서는 몰라도 전체적인 페이크 라이벌은 아니다. 
+
+라이벌 기믹이 자주 등장하는 GX지만 그중에서도 만죠메가 여러 조건들이 유희왕 라이벌 클리셰에 부합하는 캐릭터다. 공격력 3000의 드래곤족 몬스터, 발목까지 닿는 긴 간지 코트, 초반엔 적이었지만 후반엔 아군화, 더러운 성격과 기행 등.
+
+애니에서 만죠메는 쥬다이를 향해 가장 경쟁심을 깊게 품었다.. 애초에 카이저는 쥬다이를 흥미있는 후배 정도로 보는 경향이 강하고, 에드는 쥬다이를 향해 끝없는 경쟁심리를 품고, 라이벌끼리 힘을 합쳐 태그듀얼을 하는 등 라이벌로서 면모를 보여줬지만 이후로는 사이오를 구해준 것에 대해 감사하는 친우로서의 감정이 주가 되었으며, 요한의 경우도 친구로서의 이미지가 강하다. 그에 비해 만죠메는 쥬다이에게 열등감을 자주 느끼고 아예 이 열등감 때문에 화이트 썬더가 되었을 정도로 강하게 묘사된다.
+
+GX 코믹스에서는 당당하게 라이벌 자리를 차지하고 있고, 주인공 + 라이벌이 함께 그려진 앨범 자켓에선 유우기&카이바, 유세이&잭과 나란히 쥬다이&만죠메가 있다. 
+
+무엇보다 4기 엔딩 구도가 장난스러워서 잊는 사실이지만 엄연히 쥬다이 vs 만죠메의 구도다. 주인공과 라이벌이 그려진 작품에서는 언제나 만죠메가 당당히 차지하고 있다. 또한 156화에서는 본인이 직접 쥬다이를 라이벌이라고 칭하기도 했다.
+
+그리고 애니메이션에서의 비중만으로는 적어도 수많은 라이벌들 중에서 꿀리지 않는다. 마루후지 료는 2기 이후 '쥬다이의' 라이벌이라기 보단 혼자 따로 놀고 있으며 에드 피닉스는 2기 이후 공기화. 요한 안데르센은 라이벌보다는 친구로서의 위치가 더 강하다. 그리고 미사와 다이치는 라이벌인 척만 하다가 병풍이 된다물론 만죠메도 지속적으로 병풍과 안병풍을 반복하고 있으나, 결론적으로 1기부터 4기까지 꾸준히 활약하는 건 만죠메밖에 없다. 본이런 위치에도 불구하고 카이바 만큼의 강렬함을 보여주지 못한 건 편의 개그스러운 분위기에 동화돼 악동 친구 반쯤 개그캐릭터화 되어 버렸기 때문이다. 유우기 vs 카이바처럼 살벌한 라이벌관계라기보다는, 1부에서 인격적인 성장으로 캐릭터성이 완성되어 동료느낌이 나는 선의의 라이벌이라고 할 수 있다. 
+
+이 캐릭터가 라이벌로서 강렬하게 부각되지 못한건 카이바처럼, 쥬다이와 싸우면서 대립각을 이루지 못했다는 점에 있다.
+
+1기 때는 레드기숙사의 듀얼리스트를 깔보는 엘리트로서 대립을, 2기에서는 빛의 결사에 세뇌되어 쥬다이와 대립을 했다. 그렇지만 문제는 이 때도 라이벌로서 부족하던 것이 쥬다이와 경쟁 자체가 되지 않는다는 사실에 절망하고 마음에 깊은 상처를 입었음이 강조되기 때문이다. 쥬다이도 이 때문에 친구가 그 떄문에 상처받은 줄 몰랐다고 미안하다고 사과할 정도. 하지만, 3기에서는 좀비+제물 크리에 4기에서는 메인 스토리에 제대로 끼어들지를 못했다. 밑에도 적혀있듯이 3기 때는 후반에 쇼에게 나타나 "쥬다이가 괴로워하는 것은 아직 아이의 상냥함에서 벗어나지 못했기 때문이다. 유벨을 쓰러뜨리려면 그 상냥함을 버리고 진정한 강함을 지녀야만 한다. 패왕의 마음을 되살리지 않는 한 쥬다이는 이길 수 없다."는 쥬다이의 성장에 큰 도움을 주는 조언을 해주기도 했다. 쥬다이에 대해 경쟁의식이 있기는 하지만, 조력자의 모습이 부각되어 버린 것이다.
+
+만죠메의 경우는 코믹스로 라이벌의 이미지를 확실히 보여주지만, 부스터팩 등에서 홍보도 쥬다이의 라이벌이라고 셋을 따로 언급하며 판매홍보를 하기까지 했다. 때문에 페이크 라이벌 논란이 있지만, 사실 저 셋은 첫 등장한 시기에만 비중이 있었고 이후에는 주인공과 엮이는 비중이 만죠메 이상으로 없다(...). 오히려 주인공과 엮이는 비중은 만죠메가 제일 높았다고 할 수 있다. 무엇보다 쥬다이와 듀얼을 가장 많이 한 라이벌 역시도 만죠메다. 간단히 말하면, 유희왕 GX라는 타이틀의 라이벌이 만죠메 쥰이고, 위의 캐릭터들은 각 분기에 해당하는 라이벌이다.
+
+다른 시리즈의 라이벌들과 비교하면 눈물나기는 하는게 OCG 덱들의 성능도 그닥이고[17] 다른 라이벌들과 활약상을 비교할 때 작중내내 비중이 떨어지지 않았던 카이바 세토, 잭 아틀라스, 최종보스로 등극한 그 인물, 주인공에게 한번도 패하지 않고(!) 1기의 라스트 듀얼을 장식한데다 2기에선 라이벌의 역할은 옅어졌지만 여전히 활약은 높고 누메론 드래곤을 찾은 텐조 카이토, 듀얼 횟수는 적었지만 랜서즈의 리더인 아카바 레이지와 비교하면 안습하기 짝이 없다. 사실 생각해보면 4기의 종반부에서 쥬다이와 함께 싸우는 게 포지션상으로는 만죠메가 할 수 있었는데 이것조차 요한이 또 해버리며 4기의 메인 라이벌 자리마저도 지키지 못했다.
+
+그래도 밑바닥까지 갔다가 올라온 라이벌, 개그하는 라이벌, 잔챙이들과 함께 싸워나가는 라이벌이라는 개성은 역대 수많은 라이벌 캐릭터들을 봐도 확연히 차별화된 개성이라고 할 수 있겠다. 덤으로 덱의 막장스러운개성도 매우 독특하다. 전작의 두 부주인공인 카이바와 죠노우치를 반반씩 섞은 결과라는 평가도 있다.[18] 사실상 애니에서는 메인 라이벌 포지션보다는 거의 친구 겸 서브 주인공인 죠노우치의 포지션에 가깝다.
+
+애니의 만죠메는 라이벌 포지션보다는 거의 주인공을 목표로 쫓아가는 서브 주인공인 죠노우치의 포지션에 가까운 편.
+
+사실 애니에서는 라이벌 포지션이라기에는 쥬다이와 실력 차이가 너무 나서 3기 막판에는 아예 동료들이 그 사실을 가지고 만죠메를 놀려대기까지 한다. 근데 그러는 자기네들도 쥬다이에게 이긴 적 없고 만죠메보다 실력이 떨어진다. 4기 후반부에서야 겨우 따라잡고 쥬다이에게 승리를 따내나 싶었는데, 어른의 사정으로 고의로 패배한다. 심지어 이 때 고의로 패배한 만죠메에게 쥬다이는 위에 선 자로서 충고를 했으며 심지어 만죠메를 각성시켜주고 이끌어주는 역할도 쥬다이가 할 정도였다. 사실상 라이벌 포지션이 아닌 앞서 가는 주인공의 뒤를 쫓는 죠노우치 같은 친구 포지션임을 4기에서도 보여준 셈. 그리고 이후에 금방 광속탈락해버리며 태그를 맺는 라이벌 포지션도 요한이 가져가버렸다. 
+
+라이벌의 중요한 점은 일단 실력이 비슷하고 경쟁을 하는 모습을 보여줘야하는데, 당장 쥬다이가 너무 압도적으로 만죠메를 누르고 있다보니 경쟁 자체가 되지 않았고, 라이벌의 범주에도 들지 못한다는 식으로 작중에서 놀려지기까지 하니 사실상 페이크 라이벌이라는 말도 틀린 말은 아닐지도. 
+
+반면 코믹스의 만죠메는 쥬다이와 완벽한 대립구도와 차이를 느끼는 것에서 갈등과 함께 성장 등 라이벌의 모습을 완벽히 보여주었으며, 서로의 페이버릿 카드까지도 최종보스와 연관이 되어있는 등 라이벌 포지션의 중요성을 그야말로 모두 꿰차고 있었다. 라이벌 항목에도 나오는 라이벌의 요소들을 모두 겸비한 셈.
+<br>
+		</ul>
+	</div>
+</section>
+<div class='clear'></div> <!-- float 속성 해제 -->
+</div>
+<footer>
+	<div id="footer_box">
+		<div id="footer_logo">
+			<img src='hiho666.github.io/logo.png'>
+		</div>
+		<ul id="address">
+			<li>아직 대관처가 정해지지 않았습니다!</li>
+			<li>만죠메 쥰 팬레터 발송 대행인 / Email : willadhogu@gmail.com</li>
+			<li>COPYRIGHT (C) KONAMI ALL RIGHTS RESERVED</li>
+		</ul>
+	</div>
+</footer>
+</div>
+</body>
+</html>
